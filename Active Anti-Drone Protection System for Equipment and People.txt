@@ -1,0 +1,166 @@
+﻿Iron Hedgehog
+Активная противодроновая защита техники и людей
+Описание проекта:
+"Железный Ёж" — это многоуровневая активная защита от БПЛА (дронов) малой и средней дальности.
+Система сочетает в себе механические, электронные и программные компоненты для эффективной нейтрализации вражеских дронов до достижения ими цели.
+
+🔹 Основные компоненты:
+Турели малокалиберного калибра (автономные) с обзором 360° по горизонтали и 180° по вертикали.
+  
+Механические особенности конструкции
+1. Защитный бронированный колпак:
+
+Каждая турель оборудуется защитным колпаком.
+
+Колпак состоит из внешнего слоя бронестали (или титана) и внутреннего композитного слоя для амортизации ударов и защиты механизмов от осколков и обстрелов.
+
+2. Привод поворота ствола:
+
+Для снижения веса часть привода (корпус) выполняется из высокопрочного армированного пластика или карбона.
+
+Основные силовые узлы (оси, тяги, соединения) — из металла для обеспечения прочности и устойчивости к нагрузкам.
+
+3. Крепление турели:
+
+Турели крепятся к платформе (корпусу техники или стационарной основе) через быстросъёмные механические крепления: болты, фиксирующие штифты, замковые механизмы.
+
+Магнитное крепление не используется в связи с ненадёжностью при боевых нагрузках.
+
+
+Разнотипные боеприпасы:
+
+Сетка для ловли дронов.
+
+Осветительно-ослепляющие заряды (для ослепления оптики БПЛА).
+
+Картечь для массовой нейтрализации роев.
+
+Умные алгоритмы распознавания целей:
+
+Идентификация дронов по форме, размерам и траектории движения.
+
+Защита птиц и гражданских объектов (распознавание по пропорциям и паттернам движения крыльев).
+
+🔹 Многоуровневая защита:
+Дальняя дистанция:
+Умные противодроновые снаряды, взрывающиеся вблизи цели.
+
+Средняя дистанция:
+Картечь с высоким шансом нейтрализации нескольких целей.
+
+Ближняя дистанция:
+Сеточные заряды с развертыванием ловушек для захвата или повреждения дронов.
+
+Экстренный уровень:
+Дополнительные меры — автономные вспышки или создаваемые барьеры-сетки.
+
+🔹 Особенности:
+Комбинированная защита:
+Интеграция с РЭБ (радиоэлектронная борьба) для подавления каналов управления БПЛА.
+
+Гибкая модульность:
+Возможность установки как на стационарные объекты, так и на мобильную технику.
+
+Высокая автономность:
+Алгоритмы ИИ обеспечивают быстрое обнаружение и реакцию без участия оператора.
+
+Защита природы:
+Система распознавания птиц для предотвращения ложных срабатываний.
+
+🔹 Цели проекта:
+Создание открытого прототипа для демонстрации концепции.
+
+Формирование реального продукта для защиты техники и людей в условиях войны.
+
+Предложение концепции потенциальным инвесторам или государственным структурам.
+
+🔹 Открыто для сотрудничества:
+Любой желающий, кто разделяет нашу цель — помочь защитить жизни и технику от беспилотных угроз — может присоединиться к проекту:
+помогать с моделированием, оптимизацией, разработкой ПО или тестированием.
+
+🔹 Лицензия:
+Проект распространяется под лицензией Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).
+Это значит, что использовать, распространять и дополнять проект можно свободно, но только в некоммерческих целях, с обязательным указанием авторства.
+
+
+
+Iron Hedgehog
+
+Active Anti-Drone Protection System for Equipment and People
+
+🔹 Project Overview
+
+"Iron Hedgehog" is a multi-layered active protection system against UAVs (drones) for short and medium range defense.
+The system combines mechanical, electronic, and software components to effectively neutralize enemy drones before they reach their targets.
+
+🔹 Core Components
+
+Autonomous small-caliber turrets with 360° horizontal and 180° vertical rotation.
+
+Diverse Ammunition Types:
+
+Net projectiles for drone capture.
+
+Flashbang/Blinding charges (to disable drone optics).
+
+Buckshot for neutralizing swarm attacks.
+
+Smart Target Recognition Algorithms:
+
+Identification of drones based on shape, size, and flight patterns.
+
+Bird and civilian object protection (recognition by body proportions and wing movement patterns).
+
+🔹 Defense Tiers
+
+Long Range:
+Smart anti-drone shells detonating near targets.
+
+Medium Range:
+Buckshot with a high chance of neutralizing multiple targets.
+
+Close Range:
+Net-launching charges to trap or damage drones.
+
+Emergency Layer:
+Additional defensive measures like autonomous flashbangs or volume nets.
+
+🔹 Key Features
+
+Combined Protection:
+Integration with Electronic Warfare (EW) systems for jamming drone control channels.
+
+Flexible Modularity:
+Installable on both stationary objects and mobile equipment.
+
+High Autonomy:
+AI algorithms ensure fast detection and reaction without operator intervention.
+
+Environmental Safety:
+Bird recognition system to prevent false positives.
+
+🔹 Project Goals
+
+Create an open prototype demonstrating the concept.
+
+Build a real product for protecting people and equipment in wartime conditions.
+
+Offer the concept to potential investors or government structures.
+
+🔹 Collaboration Invitation
+
+Anyone who shares our mission to protect lives and equipment from unmanned threats is welcome to join the project:
+Help with modeling, software development, optimization, or testing.
+
+🔹 License
+
+This project is distributed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license.
+
+Summary: You are free to share and adapt the material as long as you give appropriate credit and do not use it for commercial purposes.
+
+Learn more: https://creativecommons.org/licenses/by-nc/4.0/
+
+🔹 GitHub Files
+
+
+
